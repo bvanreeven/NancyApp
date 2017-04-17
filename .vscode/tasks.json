@@ -7,7 +7,7 @@
         {
             "taskName": "build",
             "args": [
-                "${workspaceRoot}/EmptyWebApplication.csproj"
+                "${workspaceRoot}/NancyApp.csproj"
             ],
             "isBuildCommand": true,
             "problemMatcher": "$msCompile"

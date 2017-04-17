@@ -15,7 +15,7 @@
         "ASPNETCORE_ENVIRONMENT": "Development"
       }
     },
-    "EmptyWebApplication": {
+    "NancyApp": {
       "commandName": "Project",
       "launchBrowser": true,
       "environmentVariables": {
